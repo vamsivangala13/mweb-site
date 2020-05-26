@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>36A4243C-AC90-429A-BE08-AA9872AD761C</title>
+    <desc>Created with sketchtool.</desc>
+    <g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g  transform="translate(-392.000000, -3246.000000)" fill="#FFFFFF">
+            <g  transform="translate(0.000000, 2895.000000)">
+                <g  transform="translate(150.000000, 254.000000)">
+                    <g  transform="translate(242.000000, 97.000000)">
+                        <path d="M0,74.3636719 L56.25,74.3636719 L56.25,50.9261719 L0,50.9261719 L0,74.3636719 Z M4.6875,55.6136719 L51.5625,55.6136719 L51.5625,69.6761719 L4.6875,69.6761719 L4.6875,55.6136719 Z"  fill-rule="nonzero"></path>
+                        <path d="M0,46.2386719 L56.25,46.2386719 L56.25,27.4886719 L0,27.4886719 L0,46.2386719 Z M4.6875,32.1761719 L51.5625,32.1761719 L51.5625,41.5511719 L4.6875,41.5511719 L4.6875,32.1761719 Z"  fill-rule="nonzero"></path>
+                        <polygon  points="61.3382812 8.73867188 66.7125 3.36445312 63.3984375 0.050390625 52.3664062 11.0824219 63.3984375 22.1144531 66.7125 18.8003906 61.3382812 13.4261719 70.3125 13.4261719 70.3125 64.9886719 60.9375 64.9886719 60.9375 69.6761719 75 69.6761719 75 8.73867188"></polygon>
+                        <rect  x="0" y="18.1136719" width="51.5625" height="4.6875"></rect>
+                        <rect  x="0" y="8.73867187" width="4.6875" height="4.6875"></rect>
+                        <rect  x="9.375" y="8.73867187" width="4.6875" height="4.6875"></rect>
+                        <rect  x="18.75" y="8.73867187" width="28.125" height="4.6875"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

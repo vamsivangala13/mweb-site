@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>check_mark_estimate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="19.332148" cy="19.332148" r="19.1896552"></circle>
+    </defs>
+    <g id="visual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check_mark_estimate" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#898989" stroke-width="2" cx="20.332148" cy="20.332148" r="20.1896552"></circle>
+            <g id="Line-3-Clipped" transform="translate(1.000000, 1.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <polyline id="Line-3" stroke="#898989" stroke-width="2" stroke-linecap="square" mask="url(#mask-2)" points="11 21.8081659 15.6327139 26 23.3523358 19.0150284 30 13"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

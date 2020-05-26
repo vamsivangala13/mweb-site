@@ -1,0 +1,221 @@
+.about-us {
+    /*padding-top: 85px;
+    padding-bottom: 90px;*/
+    background: #fff;
+}
+
+.text-wr {
+    margin-top: 20px;
+}
+
+.topic-block {
+    max-width: 585px;
+}
+
+.title {
+    
+    font-size: 37px;
+    font-weight: 500;
+    line-height: 48px;
+}
+
+.sub-title {
+    margin-bottom: 15px;
+    color: #383d4c;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.map {
+    width: 100%;
+    max-width: 656px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -100px;
+    margin-left: 0;
+}
+
+.row .item {
+    margin-top: 22px;
+    padding-top: 30px;
+    border-top: 1px solid #eaeaea;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding-right: 102px;
+}
+
+    .row .item .caption {
+        color: #282d3b;
+        font-size: 37px;
+        font-weight: 600;
+        line-height: 48px;
+    }
+
+    .row .item .text {
+        width: 90px;
+        margin-top: 5px;
+        color: #383d4c;
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+.marker {
+    position: absolute;
+    margin-top: -33px;
+    width: 5px;
+    height: 5px;
+    background-color: #009bcc;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+    .marker:after {
+        position: absolute;
+        content: '';
+        width: 5px;
+        height: 5px;
+        background-color: #0068b4;
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        -webkit-transform: translate(5px,-5px);
+        transform: translate(5px,-5px);
+    }
+
+.line {
+    margin-bottom: 15px;
+    height: 4px;
+    width: 60px;
+    background-color: #ff9f00;
+}
+
+@media only screen and (max-width:900px) {
+    .about-us {
+        padding-top: 75px;
+        padding-bottom: 70px;
+    }
+
+        .about-us .global-width-limiter > .row {
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: reverse;
+            -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+        }
+
+    .map {
+        margin: 0 auto;
+        height: 561px;
+    }
+
+    .topic-block {
+        max-width: unset;
+    }
+
+    .row .item {
+        margin-top: 35px;
+        padding-right: 0;
+    }
+
+        .row .item:last-child {
+            max-width: 90px;
+        }
+}
+
+@media only screen and (max-width:520px) {
+    .about-us {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+
+        .about-us .global-width-limiter {
+            padding: 0;
+        }
+
+            .about-us .global-width-limiter > .row {
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: reverse;
+                -ms-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+            }
+
+            .about-us .global-width-limiter .title, .about-us .global-width-limiter .topic-block {
+                font-size: 27px;
+                font-weight: 600;
+                line-height: 36px;
+                padding-left: 24px;
+                padding-right: 28px;
+            }
+
+            .about-us .global-width-limiter .line {
+                margin-bottom: 14px;
+                margin-left: 24px;
+            }
+
+        .about-us .sub-title {
+            margin-top: 12px;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+        }
+
+            .about-us .sub-title:last-child {
+                margin-bottom: 0;
+            }
+
+    .text-wr {
+        margin-top: 26px;
+    }
+
+    /*.row {
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                flex-direction: column;
+            }*/
+
+    .row .item {
+        padding-top: 27px;
+        border-top: none;
+        margin-top: 0;
+    }
+
+        .row .item .marker {
+            display: none;
+        }
+
+        .row .item .caption {
+            font-size: 27px;
+            font-weight: 600;
+            line-height: 36px;
+        }
+
+        .row .item .text {
+            width: 100%;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+        }
+
+        .row .item:last-child {
+            max-width: unset;
+        }
+
+    .map {
+        margin-top: 15px;
+        height: 385px;
+        background-size: cover;
+        background-position-x: 100%;
+    }
+}
+.nav {
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,.1) !important;
+}
+.section__icon {
+    width: 56px;
+    height: auto;
+}
+
+.section__title {
+    line-height: normal;
+}
