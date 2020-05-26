@@ -12,8 +12,7 @@
     "@gridsome/source-filesystem": "^0.6.0",
     "@gridsome/transformer-remark": "^0.3.0",
     "gridsome": "^0.7.0",
-    "gridsome-plugin-sass-resources-loader": "0.0.3",
-    "jquery": "^3.5.1"
+    "gridsome-plugin-sass-resources-loader": "0.0.3"
   },
   "devDependencies": {
     "css-loader": "^3.5.3",

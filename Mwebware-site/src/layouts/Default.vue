@@ -6,12 +6,12 @@
         <div class="wrap container-fluid">
             <header class="site-header nav js-site-navigation is-on-top" id="header-variable">
                 <div class="wrap">
-                    <div class="row nav__navbar">
-                       
-                        <div class="nav__wrapper">
-                         <a href="https://www.mwebware.com/"><span class="header__logo is-black">
+                    <div class="row nav__navbar">     
+                         <a href="https://www.mwebware.com/">
+                         <span class="header__logo is-black">
                             <g-image src="../images/mwebware-logo.svg" alt="mweb Logo" />
-                        </span></a>
+                        </span>
+                        </a>
                             <div class="nav__btn">
                                 <div class="nav__hamburger"></div>
                                 <div class="nav__container">
@@ -25,20 +25,35 @@
                                           <g-link class="nav__link" to="/contact/contact/">CONTACT</g-link>
                                         </nav>
                                     </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                                 </div>
+                             </div>
+                     </div>
                 </div>
             </header>
         </div>
-        </div>
-
-    
+    </div>    
     <slot/>
-    <footer>
-    &copy;vamsi.v<g-link class="nav__link" to="https://www.mwebware.com">mwebware</g-link>, 2020all rights are reserved
-    </footer>
+   <div class="container-fluid bg-white">
+            <footer id="colophon" class="site-footer">
+                <div class="row row-gutter16">
+                    <div class="container-full footer__row-bordered-lg"></div>
+                </div>
+                <div class="row row--gutter16 footer__bottom">
+                        <div class="col">
+                            <p class="footer__copy">
+                                © <a href="https://www.mwebware.com/">MWebWare</a>, 2020. All rights reserved
+                            </p>
+                        </div>
+                        <div class="col right">
+                            <p class="footer__copy">
+                                <a href="privacy-policy/index.html" rel="no-follow">Privacy policy </a>
+                                <span class="footer__separator">| </span>
+                                <a href="#" rel="no-follow">Terms of service</a>
+                            </p>
+                        </div>
+                    </div>
+            </footer>
+        </div>
   </div>
 </template>
 

@@ -29,7 +29,7 @@
                             <div class="position-a w-100">
                                 <div class="breadcrumbs">
                                     <span>
-                                        <a title="Go to the Backend category archives." href="../index.html" class="taxonomy category">
+                                        <a title="Go to the Backend category archives." href="../index" class="taxonomy category">
                                             <span>Home</span></a>
                                     </span>
                                     <span class="breadcrumbs__separator"> / </span>
@@ -139,7 +139,7 @@
                                             MWebWare mobile developers use well-proven agile practices, design thinking and client-focused
                                             approach in custom mobile apps development
                                         </div>
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='mobile-application-development.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='mobile-application-development';">
                                             Explore More
                                         </button>
                                         <div class="content__additional">
@@ -184,7 +184,7 @@
                                             follow various business models and operate in various business domains, including FinTech,
                                             Healthcare, e-Commerce and other
                                         </div>
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='web-application-development.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='web-application-development';">
                                             Explore More
                                         </button>
                                         <div class="content__additional">
@@ -216,7 +216,7 @@
                                             designing your product
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='ui-ux-designing.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='ui-ux-designing';">
                                             Explore More
                                         </button>
                                         <div class="content__additional">
@@ -264,7 +264,7 @@
                                             refine your its business logic and design
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='quality-assurance-services.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='quality-assurance-services';">
                                             Explore More
                                         </button>
                                         <div class="content__additional">
@@ -299,7 +299,7 @@
                                             MWebWare team consists of software engineers and certified cloud solution architects for whom assistance in optimizing and supporting the development of business partners is the key to success. We provide services based on modern technologies such as microservices, containers, and process automation. Our experts can help in the effective design, implementation, and maintenance of dedicated environments based on the cloud platform, providing several benefits.
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='cloud-computing.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='cloud-computing';">
                                             Explore More
                                         </button>
                                         <div class="content__column content__column--images three-phones mobile">
@@ -329,7 +329,7 @@
                                             DevOps is a form of quality-based working pattern adopted by the IT industry. It intends to streamline the work process between software development and IT operations. Even though they both don’t work together, they’re closely connected. And DevOps works as a processing tool to combine them. The inception of DevOps has the Agile process at its root.
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='devops-services.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='devops-services';">
                                             Explore More
                                         </button>
                                         <div class="content__column content__column--images tablet-with-phone mobile">
@@ -349,7 +349,7 @@
                                             Artificial Intelligence is a very wide term with respect to its application in the real world, but basically, Artificial Intelligence means “making machines intelligent”, so they can take some decisions on there own according to the situations without the need of any human interference. And Machine Learning is “the way to make those machines intelligent”. Machine learning is a subset of AI that focuses on a narrow range of activities. Data science isn’t exactly a subset of machine learning but it “uses ML to analyze data and make predictions about the future”. It combines Machine Learning with other disciplines like big data analytics and cloud computing to solve real-world problems.
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='artificial-intelligence-data-sciences.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='artificial-intelligence-data-sciences';">
                                             Explore More
                                         </button>
                                         <div class="content__column content__column--images three-phones mobile">
@@ -379,7 +379,7 @@
                                             MWebWare provides database administration and support for industry standard database environments like Oracle, SQL Server, MS Access as well as MySQL.  Our services include user-id administration together with database backup and recovery services.  We work together with third party software vendors, assisting in the systems implementation process for applications that are specific to your industry.
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='data-management-integration.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='data-management-integration';">
                                             Explore More
                                         </button>
                                         <div class="content__column content__column--images tablet-with-phone mobile">
@@ -399,7 +399,7 @@
                                             Elevate operations, improve outcomes, Advanced solutions for the modern-day enterprise What makes business work? At MWebWare, our holistic view of enterprise operations gives us insight into how our customers operate, what they need, and how they can make the most of what they have. Large organizations have unique concerns when functioning in today’s always-on environment. Our consultants help enterprise customers elevate the way they operate, collaborate, and communicate—all with an eye on improving outcomes and achieving goals.
                                         </div>
 
-                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='enterprise-business-solutions.html';">
+                                        <button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" onclick="location.href='enterprise-business-solutions';">
                                             Explore More
                                         </button>
                                         <div class="content__column content__column--images three-phones mobile">
@@ -455,7 +455,7 @@
                                     </div>
                                 </div>
                                 <h2 class="section__title estimates__content--heading">Experience <strong>improved software development</strong></h2>
-                                <button class="estimates__content--cta btn btn__primary estimate__button" onclick="location.href='index.html';">
+                                <button class="estimates__content--cta btn btn__primary estimate__button" onclick="location.href='index';">
                                     Learn More →
                                 </button>
                             </div>

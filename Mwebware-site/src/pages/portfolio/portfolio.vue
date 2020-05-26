@@ -85,7 +85,7 @@
                                         <div class="sub-title">
                                             The ACR Appropriateness Criteria® are evidence-based guidelines to assist referring physicians and other providers.
                                         </div>
-                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #2b6cb4;" onclick="location.href='gravitas-project.html'">View Case Study</button>-->
+                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #2b6cb4;" onclick="location.href='gravitas-project'">View Case Study</button>-->
                                         <div class="more-info2">
                                             <label class="btnLabel" for="check2" style="background-color: #2b6cb4;">View Case Study<span>⇣</span></label>
 
@@ -163,7 +163,7 @@
                                         <div class="sub-title">
                                             Primary purpose of DART system is to build a unique multimodality data and image repository to promote scientific discovery and research.
                                         </div>
-                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #0068ff;"  onclick="location.href='cortex-project.html'">View Case Study</button>-->
+                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #0068ff;"  onclick="location.href='cortex-project'">View Case Study</button>-->
                                         <div class="more-info2">
                                             <label class="btnLabel" for="check4" style="background-color: #0068ff;">View Case Study<span>⇣</span></label>
 
@@ -237,7 +237,7 @@
                                         <div class="sub-title">
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         </div>
-                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #74243d;" onclick="location.href='aja-project.html'">View Case Study</button>-->
+                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #74243d;" onclick="location.href='aja-project'">View Case Study</button>-->
                                         <div class="more-info2">
                                             <label class="btnLabel" for="check6" style="background-color: #74243d;">View Case Study<span>⇣</span></label>
 
@@ -274,7 +274,7 @@
                                         <div class="sub-title">
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         </div>
-                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #74243d;" onclick="location.href='aja-project.html'">View Case Study</button>-->
+                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #74243d;" onclick="location.href='aja-project'">View Case Study</button>-->
                                         <div class="more-info2">
                                             <label class="btnLabel" for="check7" style="background-color: #2a5d89;">View Case Study<span>⇣</span></label>
 
@@ -311,7 +311,7 @@
                                         <div class="sub-title">
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                         </div>
-                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #74243d;" onclick="location.href='aja-project.html'">View Case Study</button>-->
+                                        <!--<button class="btn content__explore-more btn__primary aos-init aos-animate" data-aos="zoom-in" style="background-color: #74243d;" onclick="location.href='aja-project'">View Case Study</button>-->
                                         <div class="more-info2">
                                             <label class="btnLabel" for="check8" style="background-color: #002d55;">View Case Study<span>⇣</span></label>
 

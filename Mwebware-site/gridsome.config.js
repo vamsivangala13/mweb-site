@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 //import './src/assets/style.scss'
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'MWebWare',
   plugins: [
     {
       use: 'gridsome-plugin-sass-resources-loader',

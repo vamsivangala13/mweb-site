@@ -26,7 +26,7 @@
                         <!--<div class="breadcrumbs blogBar mb20" typeof="BreadcrumbList" vocab="http://schema.org/">
                             <div>
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a property="item" typeof="WebPage" title="Go to Home." href="../index.html" class="home">
+                                    <a property="item" typeof="WebPage" title="Go to Home." href="../index" class="home">
                                         <span property="name">Home</span>
                                     </a>
                                     <meta property="position" content="1">
@@ -48,17 +48,17 @@
                         </div>-->
                         <div class="mt50">
                             <article class="entry entry--featured">
-                                <a href="product-design-workshop-an-in-depth.html" class="entry__image" style="background-image: url(./images/product-design-workshop.jfif);">
+                                <a href="product-design-workshop-an-in-depth" class="entry__image" style="background-image: url(./images/product-design-workshop.jfif);">
                                     <!--<span class="entry__label">Featured</span>--> </a>
                                 <div class="entry__body">
                                     <header class="entry__header">
                                         <div class="entry__meta">
                                             <span class="entry__date">16 May, 2019</span>
                                         </div>
-                                        <h2 class="entry__title"><a href="product-design-workshop-an-in-depth.html">Product Design Workshop: An In-Depth Guide</a></h2>
+                                        <h2 class="entry__title"><a href="product-design-workshop-an-in-depth">Product Design Workshop: An In-Depth Guide</a></h2>
                                     </header>
                                     <div class="entry__lead">
-                                        <p>Over the past few years, we've employed immersive workshops to improve requirements gathering and accelerate product development cycles. Since the first workshop, our process has evolved quite a bit. I want to share with you what we've learned over the past few years and how we currently implement our Product Design Workshop.... <a href="product-design-workshop-an-in-depth.html" class="entry__more">Read more</a>
+                                        <p>Over the past few years, we've employed immersive workshops to improve requirements gathering and accelerate product development cycles. Since the first workshop, our process has evolved quite a bit. I want to share with you what we've learned over the past few years and how we currently implement our Product Design Workshop.... <a href="product-design-workshop-an-in-depth" class="entry__more">Read more</a>
                                         </p>
                                     </div>
                                     <div class="entry__author entry__author--post">
@@ -73,16 +73,16 @@
                                 </div>
                             </article>
                             <article class="entry">
-                                <a href="bring-your-remote-team-together-with-a-side-project.html" class="entry__image" style="background-image: url(./images/bring-your-remote-team.jfif);"></a>
+                                <a href="bring-your-remote-team-together-with-a-side-project" class="entry__image" style="background-image: url(./images/bring-your-remote-team.jfif);"></a>
                                 <div class="entry__body">
                                     <header class="entry__header">
                                         <div class="entry__meta">
                                             <span class="entry__date">14 May, 2019</span>
                                         </div>
-                                        <h2 class="entry__title"><a href="bring-your-remote-team-together-with-a-side-project.html">Bring Your Remote Team Together With a Side Project</a></h2>
+                                        <h2 class="entry__title"><a href="bring-your-remote-team-together-with-a-side-project">Bring Your Remote Team Together With a Side Project</a></h2>
                                     </header>
                                     <div class="entry__lead">
-                                        <p>We love remote work at MWebWare. Half of our team works remote full-time and the other half works from home at least one day a week. Working on a remote team has some downsides, though. The most common challenge is fostering camaraderie among teammates who don't work in the same office, city, or even time zone.. <a href="bring-your-remote-team-together-with-a-side-project.html" class="entry__more">Read more</a>
+                                        <p>We love remote work at MWebWare. Half of our team works remote full-time and the other half works from home at least one day a week. Working on a remote team has some downsides, though. The most common challenge is fostering camaraderie among teammates who don't work in the same office, city, or even time zone.. <a href="bring-your-remote-team-together-with-a-side-project" class="entry__more">Read more</a>
                                         </p>
                                     </div>
                                     <div class="entry__author entry__author--post">
@@ -97,16 +97,16 @@
                                 </div>
                             </article>
                             <article class="entry">
-                                <a href="product-design-workshop-an-in-depth.html" class="entry__image" style="background-image: url(./images/product-design-workshop.jfif);"></a>
+                                <a href="product-design-workshop-an-in-depth" class="entry__image" style="background-image: url(./images/product-design-workshop.jfif);"></a>
                                 <div class="entry__body">
                                     <header class="entry__header">
                                         <div class="entry__meta">
                                             <span class="entry__date">16 May, 2019</span>
                                         </div>
-                                        <h2 class="entry__title"><a href="product-design-workshop-an-in-depth.html">Product Design Workshop: An In-Depth Guide</a></h2>
+                                        <h2 class="entry__title"><a href="product-design-workshop-an-in-depth">Product Design Workshop: An In-Depth Guide</a></h2>
                                     </header>
                                     <div class="entry__lead">
-                                        <p>Over the past few years, we've employed immersive workshops to improve requirements gathering and accelerate product development cycles. Since the first workshop, our process has evolved quite a bit. I want to share with you what we've learned over the past few years and how we currently implement our Product Design Workshop.... <a href="product-design-workshop-an-in-depth.html" class="entry__more">Read more</a>
+                                        <p>Over the past few years, we've employed immersive workshops to improve requirements gathering and accelerate product development cycles. Since the first workshop, our process has evolved quite a bit. I want to share with you what we've learned over the past few years and how we currently implement our Product Design Workshop.... <a href="product-design-workshop-an-in-depth" class="entry__more">Read more</a>
                                         </p>
                                     </div>
                                     <div class="entry__author entry__author--post">

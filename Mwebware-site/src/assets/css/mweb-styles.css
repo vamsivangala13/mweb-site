@@ -1630,7 +1630,7 @@ hr {
         text-align: center;
         padding: 0 15px;
     }
-    .home-page .projects__photo img{
+    .home-page .projects__photo img g-image{
         max-width: inherit !important;
     }
     .headline-2 {

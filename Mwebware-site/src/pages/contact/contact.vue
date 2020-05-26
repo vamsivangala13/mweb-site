@@ -57,7 +57,7 @@
 
                                                             <i class="fa fa-envelope-o fa-3"></i>
                                                         </div>
-                                                        <div><a href="contact-us.html" class="estimates__content--cta btn btn__primary">Send us an Email</a></div>
+                                                        <div><a href="contact-us" class="estimates__content--cta btn btn__primary">Send us an Email</a></div>
                                                     </div>
                                                 </div>
                                                 <div class="clmn col-12 col-lg-6">

@@ -18,7 +18,7 @@
                                         <br>
                                         supercharge your project with our code.</h2>
                                    
-                                    <button class="header__content--cta btn btn__primary estimate__button aos-init aos-animate" data-aos="zoom-in" onclick="location.href='/services';">
+                                    <button class="header__content--cta btn btn__primary estimate__button aos-init aos-animate" data-aos="zoom-in" onclick="location.href='/services/services';">
                                             Learn More →
                                         </button>
                                 </div>
@@ -71,10 +71,7 @@
                     </div>
                 </div>
                  <main id="main" class="home site-main position-r">
-                    <div class="possibilities-blob hide-bg-xs"></div>
-                    <!--<div class="header__bg-blob">
-                        <g-image src="../assets/images/header-background.svg" alt="Header Background Blob"/>
-                    </div>-->
+                    <div class="possibilities-blob hide-bg-xs"></div>                    
                     <div class="wrap container-fluid">
                         <section class="section row row--gutter16">
                             <div class="col col-full">
@@ -117,7 +114,7 @@
                                 <div class="col clmn col-md-6 col-xl-4 order-3 order-lg-0 p0">
                                     <div class="projects__each row mtm10 align-items-c aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
                                         <div class="col text-right">
-                                            <p class="projects__title"><a href="services/cloud-computing.html">Cloud Computing</a></p>
+                                            <p class="projects__title"><a href="services/cloud-computing">Cloud Computing</a></p>
                                         </div>
                                         <div class="col col-3 text-center">
                                             <g-image src="../images/icons/icon_feature_cloud-computing.svg" alt="Cloud Computing"/>
@@ -125,7 +122,7 @@
                                     </div>
                                     <div class="projects__each row mtm10 align-items-c aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                                         <div class="col text-right">
-                                            <p class="projects__title"><a href="services/devops-services.html">DevOps services</a></p>
+                                            <p class="projects__title"><a href="services/devops-services">DevOps services</a></p>
 
                                         </div>
                                         <div class="col col-3 text-center">
@@ -134,7 +131,7 @@
                                     </div>
                                     <div class="projects__each row mtm10 align-items-c aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
                                         <div class="col text-right">
-                                            <p class="projects__title"><a href="services/artificial-intelligence-data-sciences.html">Artificial Intelligence & <br>Data Sciences</a></p>
+                                            <p class="projects__title"><a href="services/artificial-intelligence-data-sciences">Artificial Intelligence & <br>Data Sciences</a></p>
 
                                         </div>
                                         <div class="col col-3 text-center">
@@ -143,7 +140,7 @@
                                     </div>
                                     <div class="projects__each row mtm10 align-items-c aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                                         <div class="col text-right">
-                                            <p class="projects__title"><a href="/services">Mobile & Web Application<br>Development</a></p>
+                                            <p class="projects__title"><a href="/services/web-application-development">Mobile & Web Application<br>Development</a></p>
 
                                         </div>
                                         <div class="col col-3 text-center">
@@ -162,7 +159,7 @@
                                             <g-image src="../images/icons/icon_feature_ui-ux-designing.svg" alt="UI and UX Designing"/>
                                         </div>
                                         <div class="col">
-                                            <p class="projects__title"><a href="services/ui-ux-designing.html">UI/UX Designing</a></p>
+                                            <p class="projects__title"><a href="services/ui-ux-designing">UI/UX Designing</a></p>
 
                                         </div>
                                     </div>
@@ -171,7 +168,7 @@
                                             <g-image src="../images/icons/icon_feature_software-testing.svg" alt="Software Testing"/>
                                         </div>
                                         <div class="col">
-                                            <p class="projects__title"><a href="services/quality-assurance-services.html">Quality Assurance services</a></p>
+                                            <p class="projects__title"><a href="services/quality-assurance-services">Quality Assurance services</a></p>
 
                                         </div>
                                     </div>
@@ -180,7 +177,7 @@
                                             <g-image src="../images/icons/icon_feature_enterprise-business-solitions.svg" alt="Enterprise Business Solutions"/>
                                         </div>
                                         <div class="col">
-                                            <p class="projects__title"><a href="services/enterprise-business-solutions.html">Enterprise Business<br>Solutions</a></p>
+                                            <p class="projects__title"><a href="services/enterprise-business-solutions">Enterprise Business<br>Solutions</a></p>
 
                                         </div>
                                     </div>
@@ -189,7 +186,7 @@
                                             <g-image src="../images/icons/icon_feature_data-management-integration.svg" alt="Data Management and Integration"/>
                                         </div>
                                         <div class="col">
-                                            <p class="projects__title"><a href="services/data-management-integration.html">Data Management & <br>Integration</a></p>
+                                            <p class="projects__title"><a href="services/data-management-integration">Data Management & <br>Integration</a></p>
 
                                         </div>
                                     </div>
@@ -467,7 +464,7 @@
                                     </div>
                                 </div>
                                 <h2 class="section__title estimates__content--heading">Experience <strong>improved software development</strong></h2>
-                                <button class="estimates__content--cta btn btn__primary estimate__button" onclick="location.href='/services'">
+                                <button class="estimates__content--cta btn btn__primary estimate__button" onclick="location.href='/services/services'">
                                     Learn More →
                                 </button>
                             </div>
@@ -483,57 +480,11 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'MWebWare'
   }
 }
 </script>
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" type="text/css" media="all" />
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-    <script type="text/javascript">
-        // When the user scrolls the page, executeheaderMod
-        window.onscroll = function () { headerMod() };
-
-        // Get the header
-        var header = document.getElementById("header-variable");
-
-        // Get the offset position of the navbar
-        var sticky = header.offsetTop;
-
-        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-        function headerMod() {
-            if (window.pageYOffset > sticky) {
-                header.classList.add("sticky");
-            } else {
-                header.classList.remove("sticky");
-            }
-        }
-    </script>
-    <script type="text/javascript">
-        AOS.init();
-    </script>
-    <script type='text/javascript'>
-        var wpcf7 = {
-            "cached": "1"
-        };
-    </script>
-    <script src="../assets/js/slick.js" type="text/javascript"></script>
-    <script src="../assets/js/main.js" type="text/javascript"></script>
-    <a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up"></i></a>
-    <script>
-        // ===== Scroll to Top ==== 
-        $(window).scroll(function () {
-            if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
-                $('#return-to-top').fadeIn(200);    // Fade in the arrow
-            } else {
-                $('#return-to-top').fadeOut(200);   // Else fade out the arrow
-            }
-        });
-        $('#return-to-top').click(function () {      // When arrow is clicked
-            $('body,html').animate({
-                scrollTop: 0                       // Scroll to top of body
-            }, 500);
-        });
-    </script>
+   
 <style>
 .home-links a {
   margin-right: 1rem;
